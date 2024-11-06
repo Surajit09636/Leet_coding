@@ -11,5 +11,5 @@ int removeDuplicate(int* nums, int numsSize){
             k++;
         }
     }
-    retur
+    return k;
 }
